@@ -13,11 +13,9 @@
 
 I'm a **first-year Computer Engineering student at Thapar University**, working at the intersection of **robotics hardware** and **software development**.
 
-- 🤖 Member of **MARS (Mechatronics and Robotics Society)** — building a tendon-actuated, 3D-printed robotic hand with 11 DOF
+- 🤖 Member of **MARS (Mechatronics and Robotics Society)**
 - 💸 Founder of **[Budgetly](https://github.com/armaan-robotics/budgetly)** — a personal finance tracking web app for Indian college students & households (Next.js + Supabase, live on Vercel)
-- 📱 Building a **Flutter Android app** that auto-detects UPI transactions via notification listening
-- 🏆 Targeting **Smart India Hackathon 2026** with the MARS robotic hand project
-- 🔧 CAD in **SolidWorks** | Simulation pipeline: SolidWorks → URDF → Gazebo/MuJoCo → ROS 2
+- 🔧 CAD in **SolidWorks**
 
 ---
 
@@ -36,46 +34,26 @@ I'm a **first-year Computer Engineering student at Thapar University**, working 
 
 ### 💻 Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### 🌐 Web & Mobile Development
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 🤖 Robotics & Hardware
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-D32F2F?style=for-the-badge&logo=solidworks&logoColor=white)
-![Gazebo](https://img.shields.io/badge/Gazebo-FF6F00?style=for-the-badge&logo=gazebo&logoColor=white)
 ![3D Printing](https://img.shields.io/badge/3D_Printing-FF6900?style=for-the-badge&logo=prusa&logoColor=white)
 
 ### 🔧 Tools & Software
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 🚀 Featured Projects
-
-### 🤖 Tendon-Actuated Robotic Hand *(MARS — Thapar University)*
-> An anatomy-inspired, 3D-printed robotic hand with **11 DOF** — two sets of 4 servo motors for finger curl & lateral splay, plus a 3-servo thumb mechanism. Built in SolidWorks (PLA/TPU), targeting simulation in MuJoCo/Gazebo via ROS 2. Competing at **Smart India Hackathon 2026**.
-
-**Tech Stack:**
-![SolidWorks](https://img.shields.io/badge/SolidWorks-D32F2F?style=for-the-badge&logo=solidworks&logoColor=white)
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
----
 
 ### 💸 Budgetly — Personal Finance Tracker
 > A web app built for **Indian college students and households** to track expenses, income, and budgets. Features UPI transaction auto-detection (via Flutter Android app), real-time Supabase backend, and a clean Next.js frontend — live on Vercel with a growing user base.
@@ -84,7 +62,6 @@ I'm a **first-year Computer Engineering student at Thapar University**, working 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 [![View Project](https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/armaan-robotics/budgetly)

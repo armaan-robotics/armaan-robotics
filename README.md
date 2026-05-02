@@ -11,7 +11,7 @@
 
 ## 🧠 About Me
 
-I'm a **first-year Computer Engineering student at Thapar University**, working at the intersection of **robotics hardware** and **software development**.
+I'm a **first-year Mechatronics Engineering student at Thapar University**, working in **robotics** and **Webapp development with AI**.
 
 - 🤖 Member of **MARS (Mechatronics and Robotics Society)**
 - 💸 Founder of **[Budgetly](https://budgetly-xldm.vercel.app)** — a personal finance tracking web app for Indian college students & households (Next.js + Supabase, live on Vercel)

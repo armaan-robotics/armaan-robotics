@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Armaan+Gupta+%F0%9F%91%8B;Robotics+%2B+Prompt+Engineering;MARS+%7C+Thapar+University;Building+real+things+that+actually+work.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Armaan+Gupta+%F0%9F%91%8B;Robotics+%2B+Prompt+Engineering;Thapar+University;Building+real+things+that+actually+work.)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=armaan-robotics&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
